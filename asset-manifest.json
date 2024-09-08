@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6d866fd.css",
+    "main.js": "/static/js/main.fe302aa0.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/1000008012.jpg": "/static/media/1000008012.1b9babc325ebb3dda6a2.jpg",
+    "static/media/prestau.jpg": "/static/media/prestau.fe122aeed185cd134e30.jpg",
+    "static/media/aircraft.jpg": "/static/media/aircraft.9a1451d9e79ac7bbd66b.jpg",
+    "index.html": "/index.html",
+    "main.d6d866fd.css.map": "/static/css/main.d6d866fd.css.map",
+    "main.fe302aa0.js.map": "/static/js/main.fe302aa0.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6d866fd.css",
+    "static/js/main.fe302aa0.js"
+  ]
+}
