@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6d866fd.css",
-    "main.js": "/static/js/main.fe302aa0.js",
+    "main.css": "/static/css/main.b99e7fa8.css",
+    "main.js": "/static/js/main.fed45a0e.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/1000008012.jpg": "/static/media/1000008012.1b9babc325ebb3dda6a2.jpg",
-    "static/media/prestau.jpg": "/static/media/prestau.fe122aeed185cd134e30.jpg",
-    "static/media/aircraft.jpg": "/static/media/aircraft.9a1451d9e79ac7bbd66b.jpg",
+    "static/media/following.png": "/static/media/following.ab2c05fd0f806430c020.png",
+    "static/media/prestau.png": "/static/media/prestau.1dcf7325308aad843530.png",
+    "static/media/powerplay.png": "/static/media/powerplay.ddc767daacbe3085e5ea.png",
     "index.html": "/index.html",
-    "main.d6d866fd.css.map": "/static/css/main.d6d866fd.css.map",
-    "main.fe302aa0.js.map": "/static/js/main.fe302aa0.js.map",
+    "main.b99e7fa8.css.map": "/static/css/main.b99e7fa8.css.map",
+    "main.fed45a0e.js.map": "/static/js/main.fed45a0e.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6d866fd.css",
-    "static/js/main.fe302aa0.js"
+    "static/css/main.b99e7fa8.css",
+    "static/js/main.fed45a0e.js"
   ]
 }
